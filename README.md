@@ -45,7 +45,9 @@ All project output screenshots are available inside the [`prodesk_sc`](./prodesk
 
 │---- ├── sc2.png
 
-│---- └── sc3.png
+│---- ├── sc3.png
+
+│---- └── sc4.png
 
 └── README.md
 
