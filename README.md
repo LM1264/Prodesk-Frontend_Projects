@@ -34,16 +34,23 @@ All project output screenshots are available inside the [`prodesk_sc`](./prodesk
 ## 📌 Folder StructureProdesk-Frontend_Projects/
 
 │
+
 ├── Project-1_Digital Clock.html
+
 ├── Project-2_BMI Calculator.html
+
 ├── prodesk_sc/ # Screenshots of both projects
+
 │ ├── sc1.png
+
 │ ├── sc2.png
+
 │ └── sc3.png
+
 └── README.md
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-malik-702537293/) or check out more of my work on [GitHub](https://github.com/LM1264).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lakshay-malik-702537293) or check out more of my work on [GitHub](https://github.com/LM1264).
 
 ---
